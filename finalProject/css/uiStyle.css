@@ -1,0 +1,9 @@
+body.beforeLogin{
+	background-image: url('../images/bg.jpg');
+	background-position: center center;
+	/*background-size: cover;*/
+	background-repeat: no-repeat;
+}
+body .mainContainer{
+	margin-top : 50px;
+}
